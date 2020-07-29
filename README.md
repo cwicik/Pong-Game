@@ -5,7 +5,7 @@ Main Instructions:
 Title screen:
 The title screen has three buttons - play offline, play online and exit.
 
-# While not in game you can press the "escape" button to return to the previous screen.
+While not in game you can press the "escape" button to return to the previous screen.
 
 Play offline:
 When you click on play offline button a game will start that works like this:
