@@ -13,7 +13,7 @@ One player (the left player) will move his bat upwards by pressing the "W" key a
 A second player (the right player) will move his bat upwards by pressing the "↑" key and down with the "↓" key.
 You can press the "escape" button to stop the game and another press will resume the game.
 Each player must not allow the ball to touch their side of the screen and they will receive one point if they score a goal - meaning the ball will touch the other side of the screen.
-When a player reaches five points he will be declared the winner. After 1.5 seconds it will be returned to the main screen.
+First player to reach five points will be declared as the winner. After 1.5 seconds it will be returned to the main screen.
 
 Play online:
 When you click on play online button, a new screen with two buttons will open:
