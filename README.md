@@ -1,4 +1,4 @@
-# School Project
+# Pong Game Using Sockets
 This project required us to use a socket connection between the server and the client
 
 Main Instructions:
